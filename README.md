@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Social-Fi Contracts for testing
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This repository contains the contracts for the Social-Fi project. The contracts are written in Solidity and tested using Hardhat with viem.
 
 Try running some of the following tasks:
 
